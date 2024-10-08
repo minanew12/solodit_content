@@ -10,11 +10,6 @@ We believe in the power of open-source and community-driven development.
 If you have suggestions, corrections, or new content to add, please feel free to open Pull Requests for all files in this repo.
 Your contributions help make Solodit better for everyone.
 
-### Guidelines for Contribution
-- Ensure your contributions are well-documented and easy to understand.
-- Follow the existing file and directory structure for consistency.
-- Please adhere to our code of conduct and respect the community guidelines.
-
 ## Repository Contents
 
 ### [Categories of Protocol](./protocol_categories.md)
