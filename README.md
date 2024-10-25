@@ -21,9 +21,6 @@ Understanding the lineage of protocols is essential. We provide detailed informa
 ### [Tags for Reports](./report_tags.md)
 To streamline the process of filtering security review findings, we use a comprehensive set of tags. Many of these tags were initially curated and appended by [Hans](https://github.com/hans-cyfrin).
 
-### [Custom Bug Bounties](./bug_bounties/custom.md)
-Alongside the bug bounties available on external platforms, we also compile a list of custom bug bounties offered directly by protocols. Contributions to expanding this list are highly appreciated, especially for bounties not yet listed on Solodit.
-
 ### [Custom Audit Reports](./reports/README.md)
 While the Solodit team has worked on automating the process of importing audit reports from numerous audit firms, we also welcome contributions from the community.
 If you have an audit report that is not yet listed on Solodit, please feel free to submit a pull request.
